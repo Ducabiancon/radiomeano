@@ -23,8 +23,8 @@
       "sizes": "180x180"
     }
   ],
-  "start_url": "/?utm_source=web_app",
-  "scope": "/",
+  "start_url": "/radiomeano/?utm_source=web_app",
+  "scope": "/radiomeano/",
   "display": "standalone",
   "theme_color": "#007BFF",
   "background_color": "#ffffff",
